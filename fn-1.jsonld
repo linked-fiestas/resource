@@ -1,0 +1,46 @@
+[
+   {
+      "@id":"https://w3id.org/linkedfiestas/resource/fn-1",
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#type <http://schema.org/Festival":[
+         {
+            "@value":"",
+            "@type":"http://www.w3.org/2001/XMLSchema#integer"
+         }
+      ],
+      "http://schema.org/location":[
+         {
+            "@value":"Salou, Tarragona"
+         }
+      ],
+      "http://schema.org/name":[
+         {
+            "@value":"Fiesta Mayor de Invierno 2018"
+         }
+      ],
+      "http://www.w3.org/ns/prov#wasAttributedTo":[
+         {
+            "@id":"https://fiestas.net/"
+         }
+      ],
+      "http://www.w3.org/ns/prov#wasDerivedFrom":[
+         {
+            "@id":"https://fiestas.net/"
+         }
+      ],
+      "http://dbpedia.org/ontology/city":[
+         {
+            "@value":"Salou"
+         }
+      ],
+      "http://purl.org/dc/terms/subject":[
+         {
+            "@id":"http://dbpedia.org/resource/Category:Festivals_in_Spain"
+         }
+      ],
+      "http://dbpedia.org/ontology/province":[
+         {
+            "@value":"Tarragona"
+         }
+      ]
+   }
+]

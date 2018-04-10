@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:schema="http://schema.org/"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:ns0="http://dbpedia.org/ontology/">
+
+  <schema:Festival rdf:about="https://w3id.org/linkedfiestas/resource/wd-Q21003744">
+    <dc:subject rdf:resource="http://dbpedia.org/resource/Category:Festivals_in_Spain"/>
+    <ns0:city rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tudela</ns0:city>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tudela</schema:location>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Volatín de Tudela</schema:name>
+  </schema:Festival>
+
+</rdf:RDF>

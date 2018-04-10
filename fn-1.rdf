@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://www.w3.org/1999/02/22-rdf-syntax-ns#type &lt;http://schema.org/"
+         xmlns:schema="http://schema.org/"
+         xmlns:prov="http://www.w3.org/ns/prov#"
+         xmlns:ns1="http://dbpedia.org/ontology/"
+         xmlns:dc="http://purl.org/dc/terms/">
+
+  <rdf:Description rdf:about="https://w3id.org/linkedfiestas/resource/fn-1">
+    <ns0:Festival rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"></ns0:Festival>
+    <schema:location rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salou, Tarragona</schema:location>
+    <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fiesta Mayor de Invierno 2018</schema:name>
+    <prov:wasAttributedTo rdf:resource="https://fiestas.net/"/>
+    <prov:wasDerivedFrom rdf:resource="https://fiestas.net/"/>
+    <ns1:city rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salou</ns1:city>
+    <dc:subject rdf:resource="http://dbpedia.org/resource/Category:Festivals_in_Spain"/>
+    <ns1:province rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tarragona</ns1:province>
+  </rdf:Description>
+
+</rdf:RDF>

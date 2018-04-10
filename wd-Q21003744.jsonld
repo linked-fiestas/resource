@@ -1,0 +1,34 @@
+[
+   {
+      "@id":"http://dbpedia.org/resource/Category:Festivals_in_Spain"
+   },
+   {
+      "@id":"http://schema.org/Festival"
+   },
+   {
+      "@id":"https://w3id.org/linkedfiestas/resource/wd-Q21003744",
+      "@type":[
+         "http://schema.org/Festival"
+      ],
+      "http://purl.org/dc/terms/subject":[
+         {
+            "@id":"http://dbpedia.org/resource/Category:Festivals_in_Spain"
+         }
+      ],
+      "http://dbpedia.org/ontology/city":[
+         {
+            "@value":"Tudela"
+         }
+      ],
+      "http://schema.org/location":[
+         {
+            "@value":"Tudela"
+         }
+      ],
+      "http://schema.org/name":[
+         {
+            "@value":"Volatín de Tudela"
+         }
+      ]
+   }
+]
